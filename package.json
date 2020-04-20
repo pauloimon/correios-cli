@@ -1,0 +1,20 @@
+{
+  "name": "correios-cli",
+  "version": "1.0.0",
+  "description": "A CLI utility to track objects from Correios SRO",
+  "bin": {
+    "correios-cli": "bin/correios-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pauloimon/correios-cli"
+  },
+  "keywords": ["correios", "tracking", "rastreamento", "sro", "cli"],
+  "license": "MIT",
+  "dependencies": {
+    "gluegun": "latest",
+    "moment": "^2.24.0",
+    "rastrojs": "^1.1.0"
+  },
+  "devDependencies": {}
+}
