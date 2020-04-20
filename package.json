@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/pauloimon/correios-cli"
   },
+  "keywords": ["correios", "tracking", "rastreamento", "sro", "cli"],
   "license": "MIT",
   "dependencies": {
     "gluegun": "latest",
